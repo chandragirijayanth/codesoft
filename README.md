@@ -1,29 +1,26 @@
-# Student Grade Calculator
-Task-2: Student Grade Calculator
+# ATM Interface
+Task-3: ATM Interface 
 <br/>
 Language: Core Java
 <br/>
 IDE: Netbeans
 <br/>
-My Task is to create the Student based Calculator, which calculates their Total Marks, Average Percentage & their corresponding Grade also.Calculate the grade of a student based on their marks. This task meets all of the requirements and has been thoroughly tested.
+My Task is to implement a simple ATM interface that allows users to withdraw, deposit, and check their balance. It also includes a main menu that allows users to select their desired option.
 <br/>
 <h1>Demo Video: </h1>
 
 
 
 
+https://github.com/deblinaroy11/CodSoft_Task_3/assets/137715845/e02c23d3-9d77-4c6b-b54a-80c529b2b79a
 
-
-https://github.com/deblinaroy11/CodSoft_Task_2/assets/137715845/4f21ad16-771c-4b21-8d5f-58ad469a987e
-
-
-
-<br/>
 <h1>Snapshot: </h1>
 
 
-![github_1](https://github.com/deblinaroy11/CodSoft_Task_2/assets/137715845/18d943cd-7407-480b-bcd3-b9e97ff1f580)
-![github_2](https://github.com/deblinaroy11/CodSoft_Task_2/assets/137715845/3dd97ff3-5b14-4007-b999-66fabcb38fa3)
-![github_3](https://github.com/deblinaroy11/CodSoft_Task_2/assets/137715845/d2a89597-1258-4c7c-8153-306990328254)
-![github_4](https://github.com/deblinaroy11/CodSoft_Task_2/assets/137715845/e6b0e55d-347a-4506-ab07-3f5578838790)
-![github_5](https://github.com/deblinaroy11/CodSoft_Task_2/assets/137715845/40c8a397-eb14-44c8-9df2-c7a571944686)
+![1](https://github.com/deblinaroy11/CodSoft_Task_3/assets/137715845/fd7c38d0-ac90-4446-ad29-38aca12aec8a)
+![2](https://github.com/deblinaroy11/CodSoft_Task_3/assets/137715845/63330161-e886-4132-9f78-ffa2a5ee3485)
+![3](https://github.com/deblinaroy11/CodSoft_Task_3/assets/137715845/3023a573-0556-4015-a9f5-c2a5172a573d)
+![4](https://github.com/deblinaroy11/CodSoft_Task_3/assets/137715845/73522ab5-a127-40e0-ba7c-30c45b3a6fad)
+![5](https://github.com/deblinaroy11/CodSoft_Task_3/assets/137715845/05da5ac2-2ad9-4371-8319-09e8a52812f4)
+![6](https://github.com/deblinaroy11/CodSoft_Task_3/assets/137715845/6b3d1535-af07-4810-8eb2-c0a9cf31aad4)
+![7](https://github.com/deblinaroy11/CodSoft_Task_3/assets/137715845/4b42607f-b4ab-4459-b653-7c6bc9b796f2)
